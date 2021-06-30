@@ -11,5 +11,5 @@ With Jasmine installed through node.js the tests can be run from command line:
 
 ## Write Ups About This Project
 
-[Solving The Bowling Game Kata In Vanilla Javascript](https://joekadi.medium.com/solving-the-bowling-game-kata-in-vanilla-javascript-37e25d6d2305)
+[Solving The Bowling Game Kata In Vanilla Javascript](https://joekadi.medium.com/solving-the-bowling-game-kata-in-vanilla-javascript-37e25d6d2305?sk=8948d92537ad950e14b9aefbbe121d19)
 
