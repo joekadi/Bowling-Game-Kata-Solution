@@ -1,0 +1,14 @@
+{
+  "name": "bowling-game-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bowling-game.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
