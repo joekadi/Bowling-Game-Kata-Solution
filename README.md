@@ -9,7 +9,7 @@ With Jasmine installed through node.js the tests can be run from command line:
 
 `$ npm test`
 
-## Write Ups About This
+## Write Ups About This Project
 
 [Solving The Bowling Game Kata In Vanilla Javascript](https://joekadi.medium.com/solving-the-bowling-game-kata-in-vanilla-javascript-37e25d6d2305)
 
